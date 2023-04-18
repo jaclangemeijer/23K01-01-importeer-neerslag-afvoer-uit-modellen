@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-16"?>
+<theme xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <gradient columnName="Mesh2d_waterdepth">
+    <gradientThemeItems>
+      <label>2</label>
+      <style>display-style:vector;line-endcap:Flat;symbol-shape-size:16;outline-style:True;background-color:# -65536;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>2</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>1,8</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -39424;symbol-shape-size:16;outline-style:True;background-color:# -39424;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>1.8</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>1,6</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -13312;symbol-shape-size:16;outline-style:True;background-color:# -13312;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>1.6</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>1,4</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -3348992;symbol-shape-size:16;outline-style:True;background-color:# -3348992;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>1.4</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>1,2</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -10046720;symbol-shape-size:16;outline-style:True;background-color:# -10046720;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>1.2</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>1</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -16744448;symbol-shape-size:16;outline-style:True;background-color:# -16744448;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>1</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>0,8</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -16731290;symbol-shape-size:16;outline-style:True;background-color:# -16731290;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>0.8</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>0,6</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -16718132;symbol-shape-size:16;outline-style:True;background-color:# -16718132;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>0.6</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>0,4</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -16724737;symbol-shape-size:16;outline-style:True;background-color:# -16724737;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>0.4</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>0,2</label>
+      <style>display-style:vector;line-endcap:Flat;border-color:# -16750849;symbol-shape-size:16;outline-style:True;background-color:# -16750849;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>0.2</intervalMaxValue>
+    </gradientThemeItems>
+    <gradientThemeItems>
+      <label>0</label>
+      <style>display-style:vector;line-endcap:Flat;symbol-shape-size:16;outline-style:True;background-color:# -16776961;geometry-type:Polygon;symbol-shape:Ellipse;</style>
+      <intervalMinValue>0</intervalMinValue>
+      <intervalMaxValue>0</intervalMaxValue>
+    </gradientThemeItems>
+    <minStyle>display-style:vector;line-endcap:Flat;symbol-shape-size:16;outline-style:True;background-color:# -16776961;geometry-type:Polygon;symbol-shape:Ellipse;</minStyle>
+    <maxStyle>display-style:vector;line-endcap:Flat;symbol-shape-size:16;outline-style:True;background-color:# -65536;geometry-type:Polygon;symbol-shape:Ellipse;</maxStyle>
+    <numberOfClasses>11</numberOfClasses>
+    <useCustomRange>true</useCustomRange>
+    <lineColorBlends>
+      <color>#0000FF</color>
+      <position>0</position>
+    </lineColorBlends>
+    <lineColorBlends>
+      <color>#00FFFF</color>
+      <position>0.25</position>
+    </lineColorBlends>
+    <lineColorBlends>
+      <color>#008000</color>
+      <position>0.5</position>
+    </lineColorBlends>
+    <lineColorBlends>
+      <color>#FFFF00</color>
+      <position>0.75</position>
+    </lineColorBlends>
+    <lineColorBlends>
+      <color>#FF0000</color>
+      <position>1</position>
+    </lineColorBlends>
+    <fillColorBlends>
+      <color>#0000FF</color>
+      <position>0</position>
+    </fillColorBlends>
+    <fillColorBlends>
+      <color>#00FFFF</color>
+      <position>0.25</position>
+    </fillColorBlends>
+    <fillColorBlends>
+      <color>#008000</color>
+      <position>0.5</position>
+    </fillColorBlends>
+    <fillColorBlends>
+      <color>#FFFF00</color>
+      <position>0.75</position>
+    </fillColorBlends>
+    <fillColorBlends>
+      <color>#FF0000</color>
+      <position>1</position>
+    </fillColorBlends>
+    <minValue>0</minValue>
+    <maxValue>2</maxValue>
+    <noDataValueType>System.Double</noDataValueType>
+    <noDataValues>
+      <value>0</value>
+    </noDataValues>
+  </gradient>
+</theme>
