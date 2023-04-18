@@ -1,0 +1,19 @@
+* Deltares, D-Flow FM Version 1.2.105.67228M, Jul 09 2020, 22:01:04
+* Source: https://svn.oss.deltares.nl/repos/delft3d/trunk/
+* File creation date: 09:06:24, 05-07-2021
+** INFO   : Command: "D:\dflowfm-x64-1.2.105.67228M\dflowfm.exe"
+** INFO   : Opened file : unstruc.hlp
+** INFO   : Closed file : unstruc.hlp
+** INFO   : Opened file : ISOCOLOUR.hls
+** INFO   : Using Local FileISOCOLOUR.hls
+** INFO   : Closed file : ISOCOLOUR.hls
+** INFO   : Opened file : ISOCOLOUR.hls
+** INFO   : Using Local FileISOCOLOUR.hls
+** INFO   : Closed file : ISOCOLOUR.hls
+** INFO   :  MAXIMUM NUMBER OF LINKS         :            2
+** INFO   :  MAXIMUM NUMBER OF NODES         :            0
+** INFO   :  RESOLUTION GRAPHICS SCREEN      :         1600         990
+** INFO   :  RESOLUTION TEXT     SCREEN      :          200          66
+** INFO   :  NUMBER OF COLOURS AVAILABLE     :          256
+** INFO   : Load polygon                     (*.pol)
+** INFO   : Load polygon                     (*.pol)
