@@ -1,0 +1,1686 @@
+# Generated with D-HyDAMO in delftd3fmpy v.2.0.3 on 2023-04-19T08:42:43.627302Z.
+# Tested and compatible with D-Flow FM Deltares, D-Flow FM Version 5.00.024.74498M, DIMRset Deltares, DIMR_EXE Version 2.00.00.140737 (Win64) (Win64) and D-HYDRO suite 1D2D D-HYDRO Suite 2022.03 1D2D,.
+# 
+[General]
+fileVersion = 2.01
+fileType = extForce
+
+[Boundary]
+	quantity = waterlevelbnd
+	nodeId = 179556.917150_416642.991542
+	forcingFile = boundaries.bc
+
+[Lateral]
+	id = 1057660L
+	name = 1057660L
+	type = discharge
+	locationType = 1d
+	branchId = 1057660
+	chainage = 109.91
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055340L
+	name = 1055340L
+	type = discharge
+	locationType = 1d
+	branchId = 1055340
+	chainage = 67.627
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055935L
+	name = 1055935L
+	type = discharge
+	locationType = 1d
+	branchId = 1055935
+	chainage = 86.905
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1056150L
+	name = 1056150L
+	type = discharge
+	locationType = 1d
+	branchId = 1056150
+	chainage = 217.473
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057380L
+	name = 1057380L
+	type = discharge
+	locationType = 1d
+	branchId = 1057380
+	chainage = 80.105
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057400L
+	name = 1057400L
+	type = discharge
+	locationType = 1d
+	branchId = 1057400
+	chainage = 70.493
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050020L
+	name = 1050020L
+	type = discharge
+	locationType = 1d
+	branchId = 1050120
+	chainage = 439.426
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050120L
+	name = 1050120L
+	type = discharge
+	locationType = 1d
+	branchId = 1050120
+	chainage = 273.737
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050545L
+	name = 1050545L
+	type = discharge
+	locationType = 1d
+	branchId = 1050545
+	chainage = 82.304
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051250L
+	name = 1051250L
+	type = discharge
+	locationType = 1d
+	branchId = 1051250
+	chainage = 154.872
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051650L
+	name = 1051650L
+	type = discharge
+	locationType = 1d
+	branchId = 1051650
+	chainage = 75.207
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051670L
+	name = 1051670L
+	type = discharge
+	locationType = 1d
+	branchId = 1051670
+	chainage = 50.617
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052975L
+	name = 1052975L
+	type = discharge
+	locationType = 1d
+	branchId = 1052975
+	chainage = 119.169
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053030L
+	name = 1053030L
+	type = discharge
+	locationType = 1d
+	branchId = 1053030
+	chainage = 75.652
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055050L
+	name = 1055050L
+	type = discharge
+	locationType = 1d
+	branchId = 1055050
+	chainage = 157.077
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055070L
+	name = 1055070L
+	type = discharge
+	locationType = 1d
+	branchId = 1055070
+	chainage = 231.729
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057670L
+	name = 1057670L
+	type = discharge
+	locationType = 1d
+	branchId = 1057670
+	chainage = 31.238
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051615L
+	name = 1051615L
+	type = discharge
+	locationType = 1d
+	branchId = 1051615
+	chainage = 145.297
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054210L
+	name = 1054210L
+	type = discharge
+	locationType = 1d
+	branchId = 1054210
+	chainage = 122.522
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050200L
+	name = 1050200L
+	type = discharge
+	locationType = 1d
+	branchId = 1050200
+	chainage = 188.54
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050510L
+	name = 1050510L
+	type = discharge
+	locationType = 1d
+	branchId = 1050510
+	chainage = 388.519
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052020L
+	name = 1052020L
+	type = discharge
+	locationType = 1d
+	branchId = 1052020
+	chainage = 153.882
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052430L
+	name = 1052430L
+	type = discharge
+	locationType = 1d
+	branchId = 1052430
+	chainage = 151.423
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054010L
+	name = 1054010L
+	type = discharge
+	locationType = 1d
+	branchId = 1054010
+	chainage = 77.492
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055010L
+	name = 1055010L
+	type = discharge
+	locationType = 1d
+	branchId = 1055010
+	chainage = 166.406
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055040L
+	name = 1055040L
+	type = discharge
+	locationType = 1d
+	branchId = 1055040
+	chainage = 233.224
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055310L
+	name = 1055310L
+	type = discharge
+	locationType = 1d
+	branchId = 1055310
+	chainage = 195.12
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055920L
+	name = 1055920L
+	type = discharge
+	locationType = 1d
+	branchId = 1055920
+	chainage = 121.264
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057360L
+	name = 1057360L
+	type = discharge
+	locationType = 1d
+	branchId = 1057360
+	chainage = 51.47
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057410L
+	name = 1057410L
+	type = discharge
+	locationType = 1d
+	branchId = 1057410
+	chainage = 151.196
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057420L
+	name = 1057420L
+	type = discharge
+	locationType = 1d
+	branchId = 1057420
+	chainage = 143.248
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057580L
+	name = 1057580L
+	type = discharge
+	locationType = 1d
+	branchId = 1057580
+	chainage = 117.548
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057590L
+	name = 1057590L
+	type = discharge
+	locationType = 1d
+	branchId = 1057590
+	chainage = 93.19
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057650L
+	name = 1057650L
+	type = discharge
+	locationType = 1d
+	branchId = 1057650
+	chainage = 116.823
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052440L
+	name = 1052440L
+	type = discharge
+	locationType = 1d
+	branchId = 1052440
+	chainage = 242.161
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052630L
+	name = 1052630L
+	type = discharge
+	locationType = 1d
+	branchId = 1052630
+	chainage = 291.261
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052930L
+	name = 1052930L
+	type = discharge
+	locationType = 1d
+	branchId = 1052930
+	chainage = 48.064
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053120L
+	name = 1053120L
+	type = discharge
+	locationType = 1d
+	branchId = 1053120
+	chainage = 104.252
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053150L
+	name = 1053150L
+	type = discharge
+	locationType = 1d
+	branchId = 1053150
+	chainage = 118.679
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054025L
+	name = 1054025L
+	type = discharge
+	locationType = 1d
+	branchId = 1054025
+	chainage = 138.469
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054130L
+	name = 1054130L
+	type = discharge
+	locationType = 1d
+	branchId = 1054130
+	chainage = 52.881
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054140L
+	name = 1054140L
+	type = discharge
+	locationType = 1d
+	branchId = 1054140
+	chainage = 95.319
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055030L
+	name = 1055030L
+	type = discharge
+	locationType = 1d
+	branchId = 1055030
+	chainage = 273.654
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055110L
+	name = 1055110L
+	type = discharge
+	locationType = 1d
+	branchId = 1055110
+	chainage = 240.074
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055220L
+	name = 1055220L
+	type = discharge
+	locationType = 1d
+	branchId = 1055220
+	chainage = 201.156
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055510L
+	name = 1055510L
+	type = discharge
+	locationType = 1d
+	branchId = 1055510
+	chainage = 90.597
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055630L
+	name = 1055630L
+	type = discharge
+	locationType = 1d
+	branchId = 1055630
+	chainage = 85.166
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055820L
+	name = 1055820L
+	type = discharge
+	locationType = 1d
+	branchId = 1055820
+	chainage = 190.483
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057030L
+	name = 1057030L
+	type = discharge
+	locationType = 1d
+	branchId = 1057030
+	chainage = 52.99
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057620L
+	name = 1057620L
+	type = discharge
+	locationType = 1d
+	branchId = 1057620
+	chainage = 45.932
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057740L
+	name = 1057740L
+	type = discharge
+	locationType = 1d
+	branchId = 1057740
+	chainage = 230.214
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051010L
+	name = 1051010L
+	type = discharge
+	locationType = 1d
+	branchId = 1051010
+	chainage = 208.123
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051030L
+	name = 1051030L
+	type = discharge
+	locationType = 1d
+	branchId = 1051030
+	chainage = 122.964
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051150L
+	name = 1051150L
+	type = discharge
+	locationType = 1d
+	branchId = 1051150
+	chainage = 142.962
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051510L
+	name = 1051510L
+	type = discharge
+	locationType = 1d
+	branchId = 1051510
+	chainage = 108.811
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052180L
+	name = 1052180L
+	type = discharge
+	locationType = 1d
+	branchId = 1052180
+	chainage = 96.444
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052210L
+	name = 1052210L
+	type = discharge
+	locationType = 1d
+	branchId = 1052210
+	chainage = 146.773
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053510L
+	name = 1053510L
+	type = discharge
+	locationType = 1d
+	branchId = 1053510
+	chainage = 304.482
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054110L
+	name = 1054110L
+	type = discharge
+	locationType = 1d
+	branchId = 1054110
+	chainage = 271.31
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1056119L
+	name = 1056119L
+	type = discharge
+	locationType = 1d
+	branchId = 1056119
+	chainage = 219.385
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055120L
+	name = 1055120L
+	type = discharge
+	locationType = 1d
+	branchId = 1055120
+	chainage = 168.354
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051240L
+	name = 1051240L
+	type = discharge
+	locationType = 1d
+	branchId = 1051240
+	chainage = 146.206
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051630L
+	name = 1051630L
+	type = discharge
+	locationType = 1d
+	branchId = 1051630
+	chainage = 221.598
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052110L
+	name = 1052110L
+	type = discharge
+	locationType = 1d
+	branchId = 1052120
+	chainage = 0.1
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052420L
+	name = 1052420L
+	type = discharge
+	locationType = 1d
+	branchId = 1052420
+	chainage = 46.274
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052500L
+	name = 1052500L
+	type = discharge
+	locationType = 1d
+	branchId = 1052500
+	chainage = 136.213
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052810L
+	name = 1052810L
+	type = discharge
+	locationType = 1d
+	branchId = 1052810
+	chainage = 159.95
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052935L
+	name = 1052935L
+	type = discharge
+	locationType = 1d
+	branchId = 1052935
+	chainage = 160.369
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052980L
+	name = 1052980L
+	type = discharge
+	locationType = 1d
+	branchId = 1052980
+	chainage = 113.567
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054230L
+	name = 1054230L
+	type = discharge
+	locationType = 1d
+	branchId = 1054230
+	chainage = 141.952
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055520L
+	name = 1055520L
+	type = discharge
+	locationType = 1d
+	branchId = 1055520
+	chainage = 128.329
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055970L
+	name = 1055970L
+	type = discharge
+	locationType = 1d
+	branchId = 1055970
+	chainage = 51.679
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1056050L
+	name = 1056050L
+	type = discharge
+	locationType = 1d
+	branchId = 1056050
+	chainage = 160.598
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057330L
+	name = 1057330L
+	type = discharge
+	locationType = 1d
+	branchId = 1057330
+	chainage = 170.52
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057510L
+	name = 1057510L
+	type = discharge
+	locationType = 1d
+	branchId = 1057510
+	chainage = 101.795
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057520L
+	name = 1057520L
+	type = discharge
+	locationType = 1d
+	branchId = 1057520
+	chainage = 208.214
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057530L
+	name = 1057530L
+	type = discharge
+	locationType = 1d
+	branchId = 1057530
+	chainage = 60.001
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057560L
+	name = 1057560L
+	type = discharge
+	locationType = 1d
+	branchId = 1057560
+	chainage = 137.119
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051040L
+	name = 1051040L
+	type = discharge
+	locationType = 1d
+	branchId = 1051040
+	chainage = 61.687
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051070L
+	name = 1051070L
+	type = discharge
+	locationType = 1d
+	branchId = 1051070
+	chainage = 177.64
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051130L
+	name = 1051130L
+	type = discharge
+	locationType = 1d
+	branchId = 1051130
+	chainage = 202.386
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055410L
+	name = 1055410L
+	type = discharge
+	locationType = 1d
+	branchId = 1055410
+	chainage = 208.288
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055730L
+	name = 1055730L
+	type = discharge
+	locationType = 1d
+	branchId = 1055730
+	chainage = 49.929
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055810L
+	name = 1055810L
+	type = discharge
+	locationType = 1d
+	branchId = 1057830
+	chainage = 11.287
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055850L
+	name = 1055850L
+	type = discharge
+	locationType = 1d
+	branchId = 1055850
+	chainage = 165.707
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055910L
+	name = 1055910L
+	type = discharge
+	locationType = 1d
+	branchId = 1055910
+	chainage = 139.506
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055980L
+	name = 1055980L
+	type = discharge
+	locationType = 1d
+	branchId = 1055980
+	chainage = 220.853
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057020L
+	name = 1057020L
+	type = discharge
+	locationType = 1d
+	branchId = 1057020
+	chainage = 175.208
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057130L
+	name = 1057130L
+	type = discharge
+	locationType = 1d
+	branchId = 1057130
+	chainage = 109.439
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057150L
+	name = 1057150L
+	type = discharge
+	locationType = 1d
+	branchId = 1057150
+	chainage = 11.585
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057310L
+	name = 1057310L
+	type = discharge
+	locationType = 1d
+	branchId = 1057310
+	chainage = 13.339
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057320L
+	name = 1057320L
+	type = discharge
+	locationType = 1d
+	branchId = 1057320
+	chainage = 147.478
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057340L
+	name = 1057340L
+	type = discharge
+	locationType = 1d
+	branchId = 1057340
+	chainage = 83.714
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050150L
+	name = 1050150L
+	type = discharge
+	locationType = 1d
+	branchId = 1050150
+	chainage = 134.372
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050160L
+	name = 1050160L
+	type = discharge
+	locationType = 1d
+	branchId = 1050160
+	chainage = 237.671
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050220L
+	name = 1050220L
+	type = discharge
+	locationType = 1d
+	branchId = 1050220
+	chainage = 317.544
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050535L
+	name = 1050535L
+	type = discharge
+	locationType = 1d
+	branchId = 1050535
+	chainage = 180.479
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051020L
+	name = 1051020L
+	type = discharge
+	locationType = 1d
+	branchId = 1051020
+	chainage = 143.769
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051050L
+	name = 1051050L
+	type = discharge
+	locationType = 1d
+	branchId = 1051050
+	chainage = 284.99
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051360L
+	name = 1051360L
+	type = discharge
+	locationType = 1d
+	branchId = 1051360
+	chainage = 264.642
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051370L
+	name = 1051370L
+	type = discharge
+	locationType = 1d
+	branchId = 1051370
+	chainage = 167.578
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052010L
+	name = 1052010L
+	type = discharge
+	locationType = 1d
+	branchId = 1052010
+	chainage = 198.686
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052170L
+	name = 1052170L
+	type = discharge
+	locationType = 1d
+	branchId = 1052170
+	chainage = 185.318
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052950L
+	name = 1052950L
+	type = discharge
+	locationType = 1d
+	branchId = 1052950
+	chainage = 149.134
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052960L
+	name = 1052960L
+	type = discharge
+	locationType = 1d
+	branchId = 1052960
+	chainage = 240.041
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053170L
+	name = 1053170L
+	type = discharge
+	locationType = 1d
+	branchId = 1053170
+	chainage = 163.895
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053540L
+	name = 1053540L
+	type = discharge
+	locationType = 1d
+	branchId = 1053540
+	chainage = 326.328
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055140L
+	name = 1055140L
+	type = discharge
+	locationType = 1d
+	branchId = 1055140
+	chainage = 117.228
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055330L
+	name = 1055330L
+	type = discharge
+	locationType = 1d
+	branchId = 1055330
+	chainage = 186.998
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050110L
+	name = 1050110L
+	type = discharge
+	locationType = 1d
+	branchId = 1050110
+	chainage = 126.684
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050610L
+	name = 1050610L
+	type = discharge
+	locationType = 1d
+	branchId = 1050610
+	chainage = 233.263
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050630L
+	name = 1050630L
+	type = discharge
+	locationType = 1d
+	branchId = 1050630
+	chainage = 207.068
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051140L
+	name = 1051140L
+	type = discharge
+	locationType = 1d
+	branchId = 1051140
+	chainage = 335.136
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051230L
+	name = 1051230L
+	type = discharge
+	locationType = 1d
+	branchId = 1051230
+	chainage = 84.089
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052610L
+	name = 1052610L
+	type = discharge
+	locationType = 1d
+	branchId = 1052610
+	chainage = 212.288
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052940L
+	name = 1052940L
+	type = discharge
+	locationType = 1d
+	branchId = 1052940
+	chainage = 249.928
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053180L
+	name = 1053180L
+	type = discharge
+	locationType = 1d
+	branchId = 1053180
+	chainage = 94.777
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054080L
+	name = 1054080L
+	type = discharge
+	locationType = 1d
+	branchId = 1054080
+	chainage = 136.3
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055020L
+	name = 1055020L
+	type = discharge
+	locationType = 1d
+	branchId = 1055020
+	chainage = 73.742
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055130L
+	name = 1055130L
+	type = discharge
+	locationType = 1d
+	branchId = 1055130
+	chainage = 135.754
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055210L
+	name = 1055210L
+	type = discharge
+	locationType = 1d
+	branchId = 1055210
+	chainage = 100.793
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055550L
+	name = 1055550L
+	type = discharge
+	locationType = 1d
+	branchId = 1055550
+	chainage = 216.176
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055830L
+	name = 1055830L
+	type = discharge
+	locationType = 1d
+	branchId = 1055830
+	chainage = 84.68
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1056080L
+	name = 1056080L
+	type = discharge
+	locationType = 1d
+	branchId = 1056080
+	chainage = 75.308
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057040L
+	name = 1057040L
+	type = discharge
+	locationType = 1d
+	branchId = 1057040
+	chainage = 141.636
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057730L
+	name = 1057730L
+	type = discharge
+	locationType = 1d
+	branchId = 1057730
+	chainage = 161.36
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057820L
+	name = 1057820L
+	type = discharge
+	locationType = 1d
+	branchId = 1057820
+	chainage = 124.993
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050010L
+	name = 1050010L
+	type = discharge
+	locationType = 1d
+	branchId = 1051328
+	chainage = 539.6200374407528
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051340L
+	name = 1051340L
+	type = discharge
+	locationType = 1d
+	branchId = 1051340
+	chainage = 289.153
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050530L
+	name = 1050530L
+	type = discharge
+	locationType = 1d
+	branchId = 1050530
+	chainage = 9.396
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050130L
+	name = 1050130L
+	type = discharge
+	locationType = 1d
+	branchId = 1050130
+	chainage = 141.423
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052490L
+	name = 1052490L
+	type = discharge
+	locationType = 1d
+	branchId = 1052490
+	chainage = 96.804
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052510L
+	name = 1052510L
+	type = discharge
+	locationType = 1d
+	branchId = 1052510
+	chainage = 217.978
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053130L
+	name = 1053130L
+	type = discharge
+	locationType = 1d
+	branchId = 1053130
+	chainage = 59.486
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054100L
+	name = 1054100L
+	type = discharge
+	locationType = 1d
+	branchId = 1054100
+	chainage = 159.327
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054150L
+	name = 1054150L
+	type = discharge
+	locationType = 1d
+	branchId = 1054150
+	chainage = 89.976
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055710L
+	name = 1055710L
+	type = discharge
+	locationType = 1d
+	branchId = 1055710
+	chainage = 74.603
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055720L
+	name = 1055720L
+	type = discharge
+	locationType = 1d
+	branchId = 1055720
+	chainage = 46.959
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057350L
+	name = 1057350L
+	type = discharge
+	locationType = 1d
+	branchId = 1057350
+	chainage = 117.47
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057550L
+	name = 1057550L
+	type = discharge
+	locationType = 1d
+	branchId = 1057550
+	chainage = 101.99
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057770L
+	name = 1057770L
+	type = discharge
+	locationType = 1d
+	branchId = 1057770
+	chainage = 175.184
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1056020L
+	name = 1056020L
+	type = discharge
+	locationType = 1d
+	branchId = 1056020
+	chainage = 390.123
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052620L
+	name = 1052620L
+	type = discharge
+	locationType = 1d
+	branchId = 1052620
+	chainage = 37.094
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053220L
+	name = 1053220L
+	type = discharge
+	locationType = 1d
+	branchId = 1053220
+	chainage = 179.608
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053225L
+	name = 1053225L
+	type = discharge
+	locationType = 1d
+	branchId = 1053225
+	chainage = 282.03
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054245L
+	name = 1054245L
+	type = discharge
+	locationType = 1d
+	branchId = 1054245
+	chainage = 74.114
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054020L
+	name = 1054020L
+	type = discharge
+	locationType = 1d
+	branchId = 1054020
+	chainage = 109.733
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057710L
+	name = 1057710L
+	type = discharge
+	locationType = 1d
+	branchId = 1057710
+	chainage = 37.858
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051640L
+	name = 1051640L
+	type = discharge
+	locationType = 1d
+	branchId = 1051640
+	chainage = 116.763
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052220L
+	name = 1052220L
+	type = discharge
+	locationType = 1d
+	branchId = 1052220
+	chainage = 154.726
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052230L
+	name = 1052230L
+	type = discharge
+	locationType = 1d
+	branchId = 1052230
+	chainage = 176.686
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052460L
+	name = 1052460L
+	type = discharge
+	locationType = 1d
+	branchId = 1052460
+	chainage = 107.677
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052470L
+	name = 1052470L
+	type = discharge
+	locationType = 1d
+	branchId = 1052470
+	chainage = 117.851
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052750L
+	name = 1052750L
+	type = discharge
+	locationType = 1d
+	branchId = 1052750
+	chainage = 94.226
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052760L
+	name = 1052760L
+	type = discharge
+	locationType = 1d
+	branchId = 1052760
+	chainage = 90.921
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052970L
+	name = 1052970L
+	type = discharge
+	locationType = 1d
+	branchId = 1052970
+	chainage = 82.073
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053210L
+	name = 1053210L
+	type = discharge
+	locationType = 1d
+	branchId = 1053210
+	chainage = 64.818
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053235L
+	name = 1053235L
+	type = discharge
+	locationType = 1d
+	branchId = 1053235
+	chainage = 67.864
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054120L
+	name = 1054120L
+	type = discharge
+	locationType = 1d
+	branchId = 1054120
+	chainage = 148.308
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054250L
+	name = 1054250L
+	type = discharge
+	locationType = 1d
+	branchId = 1054250
+	chainage = 147.667
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055080L
+	name = 1055080L
+	type = discharge
+	locationType = 1d
+	branchId = 1055090
+	chainage = 245.036
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1056070L
+	name = 1056070L
+	type = discharge
+	locationType = 1d
+	branchId = 1056070
+	chainage = 196.007
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057110L
+	name = 1057110L
+	type = discharge
+	locationType = 1d
+	branchId = 1057110
+	chainage = 132.397
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1057220L
+	name = 1057220L
+	type = discharge
+	locationType = 1d
+	branchId = 1057220
+	chainage = 106.1
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051310L
+	name = 1051310L
+	type = discharge
+	locationType = 1d
+	branchId = 1051310
+	chainage = 150.854
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051328L
+	name = 1051328L
+	type = discharge
+	locationType = 1d
+	branchId = 1051328
+	chainage = 269.921
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051380L
+	name = 1051380L
+	type = discharge
+	locationType = 1d
+	branchId = 1051380
+	chainage = 101.961
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051390L
+	name = 1051390L
+	type = discharge
+	locationType = 1d
+	branchId = 1051390
+	chainage = 232.707
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1052985L
+	name = 1052985L
+	type = discharge
+	locationType = 1d
+	branchId = 1052985
+	chainage = 90.606
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051710L
+	name = 1051710L
+	type = discharge
+	locationType = 1d
+	branchId = 1051710
+	chainage = 104.873
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051680L
+	name = 1051680L
+	type = discharge
+	locationType = 1d
+	branchId = 1051680
+	chainage = 45.2
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051690L
+	name = 1051690L
+	type = discharge
+	locationType = 1d
+	branchId = 1051690
+	chainage = 59.087
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051700L
+	name = 1051700L
+	type = discharge
+	locationType = 1d
+	branchId = 1051700
+	chainage = 41.689
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050210L
+	name = 1050210L
+	type = discharge
+	locationType = 1d
+	branchId = 1050210
+	chainage = 96.272
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1050540L
+	name = 1050540L
+	type = discharge
+	locationType = 1d
+	branchId = 1050540
+	chainage = 89.355
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1051610L
+	name = 1051610L
+	type = discharge
+	locationType = 1d
+	branchId = 1051610
+	chainage = 88.625
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1055940L
+	name = 1055940L
+	type = discharge
+	locationType = 1d
+	branchId = 1055940
+	chainage = 171.427
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1053530L
+	name = 1053530L
+	type = discharge
+	locationType = 1d
+	branchId = 1053530
+	chainage = 78.015
+	discharge = boundaries.bc
+
+[Lateral]
+	id = 1054260L
+	name = 1054260L
+	type = discharge
+	locationType = 1d
+	branchId = 1054260
+	chainage = 219.508
+	discharge = boundaries.bc
+
+[Lateral]
+	id = LAN-ZEE-STE-14
+	name = LAN-ZEE-STE-14
+	type = discharge
+	locationType = 1d
+	branchId = 1052230
+	chainage = 7.096
+	discharge = boundaries.bc
+
+[Lateral]
+	id = LAN-ZEE-MEL-12
+	name = LAN-ZEE-MEL-12
+	type = discharge
+	locationType = 1d
+	branchId = 1053110
+	chainage = 0.1
+	discharge = boundaries.bc
+
+[Lateral]
+	id = MIL-LAN-KER-11
+	name = MIL-LAN-KER-11
+	type = discharge
+	locationType = 1d
+	branchId = 1057510
+	chainage = 0.1
+	discharge = boundaries.bc
+
+[Lateral]
+	id = LAN-ZEE-OVE-15
+	name = LAN-ZEE-OVE-15
+	type = discharge
+	locationType = 1d
+	branchId = 1051110
+	chainage = 0.1
+	discharge = boundaries.bc
+
+[Lateral]
+	id = LAN-ZEE-STE-16
+	name = LAN-ZEE-STE-16
+	type = discharge
+	locationType = 1d
+	branchId = 1052230
+	chainage = 7.096
+	discharge = boundaries.bc
+
+[Lateral]
+	id = LAN-ZEE-ROS-13
+	name = LAN-ZEE-ROS-13
+	type = discharge
+	locationType = 1d
+	branchId = 1054060
+	chainage = 438.817
+	discharge = boundaries.bc
+
+[Lateral]
+	id = LAN-ZEE-KRE-11
+	name = LAN-ZEE-KRE-11
+	type = discharge
+	locationType = 1d
+	branchId = 1054100
+	chainage = 3.161
+	discharge = boundaries.bc
+
